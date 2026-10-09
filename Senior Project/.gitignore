@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Trained weights and generated outputs
+*.pth
+FeatRef/result/
+FeatRef/gui/sub01/

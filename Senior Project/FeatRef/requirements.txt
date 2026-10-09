@@ -1,0 +1,11 @@
+# Training (run*.py). Install a CUDA build of torch/torchvision first if a GPU is available.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+opencv-python
+torchviz

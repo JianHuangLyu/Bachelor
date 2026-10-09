@@ -1,0 +1,14 @@
+# Real-time recognition GUI (Windows, webcam). Do not install opencv-python alongside:
+# cv2.optflow.DualTVL1OpticalFlow_create requires the contrib build.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+Pillow
+opencv-contrib-python
+mediapipe          # uses the legacy mp.solutions.face_mesh API
+PyQt5
+moviepy<2.0        # moviepy.editor was removed in 2.0
+keyboard
+xlsxwriter
