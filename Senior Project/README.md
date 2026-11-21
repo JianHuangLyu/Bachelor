@@ -3,7 +3,7 @@
 以 PyTorch 實作的微表情辨識模型，改良自 FeatRef（Feature Refinement）論文，結合光流動態特徵、CNN 靜態特徵與 Self-Attention，將微表情分為正向、負向、驚訝、其他四類，並提供即時辨識 GUI。
 
 - 專題報告：[基於多模態深層卷積網路之微表情辨識研究畢業專題報告.pdf](docs/基於多模態深層卷積網路之微表情辨識研究畢業專題報告.pdf)
-- Demo 影片：[docs/Demo.mp4](docs/Demo.mp4)
+- Demo 影片：[[docs/Demo.mp4](https://youtu.be/WqFC5YTgZJo)](Demo)
 - 獲獎：國立臺南大學資訊工程學系 112 級畢業專題競賽「多媒體與雲端網路應用」組第三名（[獎狀](docs/Award.jpg)）
 
 <br>
